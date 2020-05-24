@@ -8,6 +8,8 @@
 
 ## BIOS设置
 
+bios版本为410，为了改开机第一屏为苹果logo，本着抄作业要完美的原则，要刷的话直接可以开车，bios可以随意升降级，只要不断电，都好说
+
 CFG Lock    禁用
 
 Intel 虚拟化技术    >>开启
@@ -21,6 +23,8 @@ VT-d    >>禁用
 IOAPIC 24-119 Entries     >>关闭
 
 IGPU 多监视器      >> 开启
+
+共享显存    >>128M
 
 XHCI Hand-off        >>开启
 
@@ -36,7 +40,7 @@ CSM     >>关闭
 
 CPU：intel core i5 9400         	    后续会升级，只为亮机，毕竟家境贫寒
 
-显卡：迪兰RX 470 4G X-Serial   	免驱动，刷了技嘉RX570的vbios，解决UEFI花屏问题
+显卡：迪兰RX 470 4G X-Serial   	免驱动，刷了技嘉RX570的vbios，解决UEFI花屏问题，强迫症
 
 声卡：Realtek ALC1220   		      注入alcid=11
 
@@ -68,7 +72,15 @@ CPU：intel core i5 9400         	    后续会升级，只为亮机，毕竟家
 
 <img src="https://emiya.oss-cn-shanghai.aliyuncs.com/z370%E9%9F%B3%E9%A2%91.png" style="zoom:67%;" /> 
 
+**UEFI花屏**
 
+![](https://emiya.oss-cn-shanghai.aliyuncs.com/UEFI%E8%8A%B1%E5%B1%8F.png)
+
+**解决方案：**
+
+目前只能强刷RX570的VBIOS，同品牌的RX570频率，内存颗粒都不同，不敢开车，只能刷技嘉的了，提供原版vbios
+
+和技嘉vbios，刷bios有风险，请科学开车，不提供刷bios教程，自行百度
 
 **参考EFI:** 
 
