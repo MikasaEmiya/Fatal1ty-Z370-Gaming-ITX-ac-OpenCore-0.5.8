@@ -54,27 +54,27 @@ CPU：intel core i5 9400         	    后续会升级，只为亮机，毕竟家
 
 **关于本机**
 
-<img src="https://emiya.oss-cn-shanghai.aliyuncs.com/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA9400.png" style="zoom:67%;" />
+![](https://cdn.jsdelivr.net/gh/MikasaEmiya/images/img/关于本机9400.png)
 
 **集显，用作运算，剪辑神助攻**
 
-![](https://emiya.oss-cn-shanghai.aliyuncs.com/%E9%9B%86%E6%98%BE630.png)
+![](https://cdn.jsdelivr.net/gh/MikasaEmiya/images/img/集显630.png)
 
 **显卡，刷成RX570**
 
-<img src="https://emiya.oss-cn-shanghai.aliyuncs.com/470%E6%98%BE%E5%8D%A1.png" style="zoom: 67%;" />
+![](https://cdn.jsdelivr.net/gh/MikasaEmiya/images/img/470显卡.png)
 
 **WiFi蓝牙**
 
-![](https://emiya.oss-cn-shanghai.aliyuncs.com/WiFi%E8%93%9D%E7%89%99.png)
+![](https://cdn.jsdelivr.net/gh/MikasaEmiya/images/img/WiFi蓝牙.png)
 
 **音频ALC1220，注入alc_id为11**
 
-<img src="https://emiya.oss-cn-shanghai.aliyuncs.com/z370%E9%9F%B3%E9%A2%91.png" style="zoom:67%;" /> 
+![](https://cdn.jsdelivr.net/gh/MikasaEmiya/images/img/z370音频.png) 
 
 **UEFI花屏**
 
-![](https://emiya.oss-cn-shanghai.aliyuncs.com/UEFI%E8%8A%B1%E5%B1%8F.png)
+![](https://cdn.jsdelivr.net/gh/MikasaEmiya/images/img/UEFI花屏.jpg)
 
 **解决方案：**
 
