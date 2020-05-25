@@ -156,7 +156,7 @@
 			<key>DiscardHibernateMap</key>
 			<false/>
 			<key>EnableSafeModeSlide</key>
-			<false/>
+			<true/>
 			<key>EnableWriteUnprotector</key>
 			<true/>
 			<key>ForceExitBootServices</key>
@@ -168,11 +168,11 @@
 			<key>ProtectUefiServices</key>
 			<false/>
 			<key>ProvideCustomSlide</key>
-			<false/>
+			<true/>
 			<key>RebuildAppleMemoryMap</key>
 			<false/>
 			<key>SetupVirtualMap</key>
-			<false/>
+			<true/>
 			<key>SignalAppleOS</key>
 			<false/>
 			<key>SyncRuntimePermissions</key>
@@ -378,7 +378,7 @@
 			<key>CustomSMBIOSGuid</key>
 			<false/>
 			<key>DisableIoMapper</key>
-			<false/>
+			<true/>
 			<key>DisableRtcChecksum</key>
 			<false/>
 			<key>DummyPowerManagement</key>
@@ -463,7 +463,7 @@
 			<key>AllowNvramReset</key>
 			<true/>
 			<key>AllowSetDefault</key>
-			<false/>
+			<true/>
 			<key>AuthRestart</key>
 			<false/>
 			<key>BootProtect</key>
@@ -730,17 +730,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02923600QXKGQG1F</string>
+			<string>C02045100GULNV91F</string>
 			<key>ROM</key>
 			<data>iZm/Bro4</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMac19,2</string>
+			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YTUYSJWDW</string>
+			<string>C02DN0ABJV3Q</string>
 			<key>SystemUUID</key>
-			<string>3C79BADB-585F-4539-9C68-4642AA06BA38</string>
+			<string>7657AF9E-B8F2-4F40-BCA4-2DAFFD29BBF3</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -878,7 +878,7 @@
 			<key>ReleaseUsbOwnership</key>
 			<false/>
 			<key>RequestBootVarFallback</key>
-			<false/>
+			<true/>
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>UnblockFsConnect</key>
